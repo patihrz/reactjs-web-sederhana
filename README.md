@@ -47,3 +47,40 @@ https://reactjs-web-sederhana-eta.vercel.app/
 1. Clone repo:
    ```bash
    git clone https://github.com/patihrz/reactjs-web-sederhana.git
+
+2. Masuk ke folder:
+
+-----
+bash
+-----
+cd reactjs-web-sederhana
+
+3. Install dependency:
+
+-----
+bash
+-----
+npm install
+
+3. Jalankan dev server:
+
+-----
+bash
+-----
+npm run dev
+
+
+🗂 Struktur Folder
+.
+├── src
+│   ├── components
+│   ├── data
+│   ├── styles
+│   ├── App.jsx
+│   └── main.jsx
+└── public
+🙌 Kontribusi / Pengembangan Selanjutnya
+--Menambahkan routing (react-router-dom)
+--Form Contact
+--Mode gelap (dark mode)
+--Integrasi ke backend/API
